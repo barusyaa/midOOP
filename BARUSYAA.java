@@ -7,7 +7,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import java.util.Random ;
 import java.io.IOException;
-//HELLO Mr.Nurlan mine project is about Cryptography
+//HELLO Mr.Ruslan mine project is about Cryptography
 //ITS MEAN THAT Cryptography is a method of protecting information and communications
 // through the use of codes, so that only those for whom the information is intended can read and process it.
 // The prefix "crypt-" means "hidden" or "vault" -- and the suffix "-graphy" stands for "writing."
