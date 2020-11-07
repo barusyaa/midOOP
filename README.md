@@ -9,4 +9,4 @@ HardWork Hello Mr.Ruslan mine project was the about cryptography so cryptography
 4)I have a polymorphizm
 
 
-![Снимок](https://user-images.githubusercontent.com/65685745/98451677-24a95e80-2172-11eb-8ce3-a3419aec4206.PNG)     
+![Снимок](https://user-images.githubusercontent.com/65685745/98451677-24a95e80-2172-11eb-8ce3-a3419aec4206.PNG)  ![Снимdsfок](https://user-images.githubusercontent.com/65685745/98451698-6934fa00-2172-11eb-8fa0-8f5a8e7f56f0.PNG)   
