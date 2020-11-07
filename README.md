@@ -7,3 +7,6 @@ HardWork Hello Mr.Ruslan mine project was the about cryptography so cryptography
 3)i WORK WITH CLASSES**
 
 4)I have a polymorphizm
+
+
+![Снимок](https://user-images.githubusercontent.com/65685745/98451677-24a95e80-2172-11eb-8ce3-a3419aec4206.PNG)     
